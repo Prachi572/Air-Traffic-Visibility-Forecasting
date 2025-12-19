@@ -48,7 +48,7 @@ jupyter notebook "Predicting visibility for Air Traffic Control (1).ipynb"
 6. **Evaluation** - R², RMSE, MAE, learning curves
 
 ## Author
-Prachi - Machine Learning Engineer
+Prachi
 
 ## License
 MIT License
